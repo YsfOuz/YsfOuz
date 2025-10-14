@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Yusuf Oğuz  
 
 🎓 **Software Engineering Student** at Mehmet Akif Ersoy University  
+![Yusuf Oğuz](profile.jpg)
 💡 *Young but knows something*  
 
 ---
