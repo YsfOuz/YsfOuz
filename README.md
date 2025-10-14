@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yusuf Oğuz  
 
 🎓 **Software Engineering Student** at Mehmet Akif Ersoy University  
-<p align="center">
+<p align="left">
   <img src="me.jpeg" alt="Yusuf Oğuz" width="300" style="border-radius:20px;"/>
 </p>
 💡 *Young but knows something*  
