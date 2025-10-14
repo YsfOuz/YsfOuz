@@ -6,7 +6,7 @@
 ---
 
 ### 🧠 About Me  
-I’m a software engineer student who loves exploring the logic behind how systems work — from **bare-metal programming** to **AI simulations**.  
+I’m a software engineer student who loves exploring the logic behind how systems work — from **bare-metal programming** to **AI** and **simulations**.  
 I enjoy learning through building and experimenting, focusing on **clean, low-level code** and **efficient problem-solving**.
 
 ---
@@ -22,7 +22,8 @@ I enjoy learning through building and experimenting, focusing on **clean, low-le
 ---
 
 ### 🚀 Interests & Learning  
-- 🧬 **AI Simulations & Models**  
+- 🧬 **AI**
+- ⚛️ **Simulations**  
 - 🧩 **Databases & API Design**  
 - ⚙️ **Pure Language Programming** (minimal dependencies)
 
